@@ -1,12 +1,19 @@
 class Solution {
-    public List<Integer> getRow(int rowIndex) {
-        List<Integer> row = new ArrayList<>();
-        row.add(1);
-        for(int i = 1; i <= rowIndex; i++)
-        {
-            int nextValue = (int) ((long) row.get(i - 1) * (rowIndex - i + 1) / i);
-            row.add(nextValue);
+    private List<Integer> generatedRow(int r) {
+        long ans = 1;
+        List<Integer> ansRow = new ArrayList<>();
+        ansRow.add(1); // first element
+
+        for (int c = 1; c <= r; c++) {
+            ans = ans * (r - c + 1);
+            ans = ans / c;
+            ansRow.add((int) ans);
         }
-        return row;
+
+        return ansRow;
+    }
+
+    public List<Integer> getRow(int rowIndex) {
+        return generatedRow(rowIndex);
     }
 }
