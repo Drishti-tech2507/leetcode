@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,4 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 <!---LeetCode Topics End-->
