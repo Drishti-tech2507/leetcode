@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
