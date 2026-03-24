@@ -36,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/Drishti-tech2507/leetcode/tree/main/0091-decode-ways/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/Drishti-tech2507/leetcode/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->
