@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Drishti-tech2507/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0091-decode-ways](https://github.com/Drishti-tech2507/leetcode/tree/main/0091-decode-ways/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
