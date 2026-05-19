@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Drishti-tech2507/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -75,11 +76,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/Drishti-tech2507/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/Drishti-tech2507/leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
