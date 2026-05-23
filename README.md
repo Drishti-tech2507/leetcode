@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Drishti-tech2507/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -140,11 +141,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0052-n-queens-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
