@@ -1,21 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
-       int n = nums.length;
-       int i;
-       for(i = 0; i <= n; i++) 
-       {
-        int f = 0;
-        int j;
-        for(j = 0; j < n; j++)
+        int i;
+        int exSum = nums.length * (nums.length + 1) / 2;
+        int acSum = 0;
+        for(i = 0; i < nums.length; i++)
         {
-            if(nums[j] == i)
-            {
-                f = 1;
-                break;
-            }
+            int temp = nums[i];
+            acSum += temp;
         }
-        if(f == 0) return i;
-       }
-       return -1;
+        return exSum - acSum;
     }
 }
