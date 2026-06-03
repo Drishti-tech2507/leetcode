@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Drishti-tech2507/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Drishti-tech2507/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0086-partition-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Drishti-tech2507/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Stack
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Drishti-tech2507/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0086-partition-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Drishti-tech2507/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Backtracking
