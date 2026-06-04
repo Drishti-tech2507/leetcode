@@ -18,30 +18,30 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode secondHalf = reverseList(slow);
-        ListNode firstHalf = head;
-        while(secondHalf != null)
+        ListNode secH = reverseList(slow);
+        ListNode firH = head;
+        while(secH != null)
         {
-            if(firstHalf.val != secondHalf.val)
+            if(firH.val != secH.val)
             {
                 return false;
             }
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
+            firH = firH.next;
+            secH = secH.next;
         }
-        return true;
+        return true; 
     }
     private ListNode reverseList(ListNode head)
     {
         ListNode prev = null;
         ListNode curr = head;
         while(curr != null)
-        {
-            ListNode nextNode = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = nextNode;
-        }
-        return prev;
-    }
+       {
+    ListNode nextNode = curr.next;
+    curr.next = prev;
+    prev = curr;
+    curr = nextNode;
+}
+return prev;
+}
 }
