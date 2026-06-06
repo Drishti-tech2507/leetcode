@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Drishti-tech2507/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Drishti-tech2507/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0202-happy-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Drishti-tech2507/leetcode/tree/main/0258-add-digits/) | Easy |
@@ -173,11 +174,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
