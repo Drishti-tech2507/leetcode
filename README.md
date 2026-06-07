@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Drishti-tech2507/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Drishti-tech2507/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
