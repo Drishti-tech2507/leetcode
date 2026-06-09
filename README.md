@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
