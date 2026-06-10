@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0202-happy-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Drishti-tech2507/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
