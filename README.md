@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Drishti-tech2507/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Drishti-tech2507/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/Drishti-tech2507/leetcode/tree/main/0066-plus-one/) | Easy |
