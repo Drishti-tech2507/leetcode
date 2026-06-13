@@ -10,34 +10,32 @@
  */
 class Solution {
     public ListNode partition(ListNode head, int x) {
-        ListNode beforeHead = new ListNode(0);
-        ListNode afterHead = new ListNode(0);
-        ListNode before = beforeHead;
-        ListNode after = afterHead;
+         ListNode bHead = new ListNode(0);
+        ListNode aHead = new ListNode(0);
+        ListNode b = bHead;
+        ListNode a = aHead;
         while(head != null)
         {
             if(head.val < x)
             {
-                before.next = head;
-                before = before.next;
+                b.next = head;
+                b = b.next;
             }
             else {
-                after.next = head;
-                after = after.next;
+                a.next = head;
+                a = a.next;
             }
             head = head.next;
         }
-        after.next = null;
-        before.next = afterHead.next;
-        return beforeHead.next;
+        a.next = null;
+        b.next = aHead.next;
+        return bHead.next;
     }
     public void printList (ListNode head)
     {
         while(head != null)
         {
             System.out.print(head.val + "->");
-            head = head.next;
         }
-        System.out.println("null");
     }
 }
