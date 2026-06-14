@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/Drishti-tech2507/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0507-perfect-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1362-closest-divisors](https://github.com/Drishti-tech2507/leetcode/tree/main/1362-closest-divisors/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Drishti-tech2507/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Drishti-tech2507/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
