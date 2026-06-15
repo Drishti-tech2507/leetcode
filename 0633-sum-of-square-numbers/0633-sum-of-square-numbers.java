@@ -13,10 +13,12 @@ class Solution {
             {
                 l++;
             }
-            else {
+              else {
                 r--;
             }
+          
         }
-        return false;
+    
+    return false;
     }
 }
