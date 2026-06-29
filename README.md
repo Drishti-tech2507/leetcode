@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
 ## Hash Table
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Drishti-tech2507/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Drishti-tech2507/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
