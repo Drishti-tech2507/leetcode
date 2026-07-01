@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Drishti-tech2507/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Drishti-tech2507/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
