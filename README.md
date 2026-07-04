@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Search Tree
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
