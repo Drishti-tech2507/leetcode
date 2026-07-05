@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Drishti-tech2507/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Drishti-tech2507/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Drishti-tech2507/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Drishti-tech2507/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Drishti-tech2507/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Drishti-tech2507/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -236,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Drishti-tech2507/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
