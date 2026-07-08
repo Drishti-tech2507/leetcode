@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Drishti-tech2507/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
