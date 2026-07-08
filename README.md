@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
