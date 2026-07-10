@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0796-rotate-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -344,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Drishti-tech2507/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
