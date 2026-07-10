@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
