@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Drishti-tech2507/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -373,4 +374,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0796-rotate-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Drishti-tech2507/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
