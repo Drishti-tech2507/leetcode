@@ -390,4 +390,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1791-find-center-of-star-graph](https://github.com/Drishti-tech2507/leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
