@@ -325,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0461-hamming-distance](https://github.com/Drishti-tech2507/leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Drishti-tech2507/leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 ## Sorting
