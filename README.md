@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0091-decode-ways](https://github.com/Drishti-tech2507/leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -210,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Drishti-tech2507/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/Drishti-tech2507/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -323,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Drishti-tech2507/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
