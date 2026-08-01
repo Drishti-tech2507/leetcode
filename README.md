@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Drishti-tech2507/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/Drishti-tech2507/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Drishti-tech2507/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Drishti-tech2507/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Drishti-tech2507/leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,4 +467,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
