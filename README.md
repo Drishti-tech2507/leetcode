@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Drishti-tech2507/leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Drishti-tech2507/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,4 +474,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
