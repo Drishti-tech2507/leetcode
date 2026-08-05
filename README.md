@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/Drishti-tech2507/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/Drishti-tech2507/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/Drishti-tech2507/leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/Drishti-tech2507/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
