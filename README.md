@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Dynamic Programming
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1328-break-a-palindrome](https://github.com/Drishti-tech2507/leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
