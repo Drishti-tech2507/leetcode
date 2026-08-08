@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1328-break-a-palindrome](https://github.com/Drishti-tech2507/leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -321,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
