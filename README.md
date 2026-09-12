@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Drishti-tech2507/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Drishti-tech2507/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Drishti-tech2507/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Drishti-tech2507/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Drishti-tech2507/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Drishti-tech2507/leetcode/tree/main/0204-count-primes/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Drishti-tech2507/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
