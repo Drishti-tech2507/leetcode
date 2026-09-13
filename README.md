@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Drishti-tech2507/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Drishti-tech2507/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0079-word-search](https://github.com/Drishti-tech2507/leetcode/tree/main/0079-word-search/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/Drishti-tech2507/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Drishti-tech2507/leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## String
