@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Drishti-tech2507/leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Drishti-tech2507/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Drishti-tech2507/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -575,4 +576,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Drishti-tech2507/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
