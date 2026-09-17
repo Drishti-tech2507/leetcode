@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1362-closest-divisors](https://github.com/Drishti-tech2507/leetcode/tree/main/1362-closest-divisors/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Drishti-tech2507/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Drishti-tech2507/leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Drishti-tech2507/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Drishti-tech2507/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Number Theory
