@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Drishti-tech2507/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1362-closest-divisors](https://github.com/Drishti-tech2507/leetcode/tree/main/1362-closest-divisors/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Drishti-tech2507/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Drishti-tech2507/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -597,4 +598,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Drishti-tech2507/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Drishti-tech2507/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
