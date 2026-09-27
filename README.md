@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Drishti-tech2507/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1328-break-a-palindrome](https://github.com/Drishti-tech2507/leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Drishti-tech2507/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -425,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -626,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
