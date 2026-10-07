@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Drishti-tech2507/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Drishti-tech2507/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0404-sum-of-left-leaves](https://github.com/Drishti-tech2507/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/Drishti-tech2507/leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -487,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
