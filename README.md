@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Drishti-tech2507/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Drishti-tech2507/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Drishti-tech2507/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Drishti-tech2507/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Binary Tree
@@ -521,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Drishti-tech2507/leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -565,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
