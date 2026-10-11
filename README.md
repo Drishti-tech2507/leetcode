@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Drishti-tech2507/leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Drishti-tech2507/leetcode/tree/main/2470-number-of-subarrays-with-lcm-equal-to-k/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Drishti-tech2507/leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Drishti-tech2507/leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Drishti-tech2507/leetcode/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Drishti-tech2507/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Drishti-tech2507/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
