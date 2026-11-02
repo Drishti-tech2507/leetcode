@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Drishti-tech2507/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Drishti-tech2507/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Drishti-tech2507/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Drishti-tech2507/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/Drishti-tech2507/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Drishti-tech2507/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0486-predict-the-winner](https://github.com/Drishti-tech2507/leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Drishti-tech2507/leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Drishti-tech2507/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/Drishti-tech2507/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Drishti-tech2507/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Drishti-tech2507/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
