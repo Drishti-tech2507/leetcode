@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Drishti-tech2507/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Drishti-tech2507/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Drishti-tech2507/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Drishti-tech2507/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -602,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
