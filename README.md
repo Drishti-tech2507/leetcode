@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/Drishti-tech2507/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0258-add-digits](https://github.com/Drishti-tech2507/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3379-transformed-array](https://github.com/Drishti-tech2507/leetcode/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/Drishti-tech2507/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Drishti-tech2507/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Drishti-tech2507/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
