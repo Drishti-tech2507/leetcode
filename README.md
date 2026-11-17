@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Drishti-tech2507/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Drishti-tech2507/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Drishti-tech2507/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Drishti-tech2507/leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Drishti-tech2507/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Drishti-tech2507/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0832-flipping-an-image](https://github.com/Drishti-tech2507/leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Drishti-tech2507/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Drishti-tech2507/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Drishti-tech2507/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-brace-expansion-ii](https://github.com/Drishti-tech2507/leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Drishti-tech2507/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Drishti-tech2507/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Drishti-tech2507/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Drishti-tech2507/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Drishti-tech2507/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
