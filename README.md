@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Drishti-tech2507/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Drishti-tech2507/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Drishti-tech2507/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Drishti-tech2507/leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Drishti-tech2507/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1362-closest-divisors](https://github.com/Drishti-tech2507/leetcode/tree/main/1362-closest-divisors/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Drishti-tech2507/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -687,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Drishti-tech2507/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Drishti-tech2507/leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -891,4 +895,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Drishti-tech2507/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
