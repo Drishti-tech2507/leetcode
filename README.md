@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0896-monotonic-array/) | Easy |
 | [0932-beautiful-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0932-beautiful-array/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Drishti-tech2507/leetcode/tree/main/0997-find-the-town-judge/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1250-check-if-it-is-a-good-array](https://github.com/Drishti-tech2507/leetcode/tree/main/1250-check-if-it-is-a-good-array/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/Drishti-tech2507/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Drishti-tech2507/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0525-contiguous-array](https://github.com/Drishti-tech2507/leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Drishti-tech2507/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Drishti-tech2507/leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -446,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/Drishti-tech2507/leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Drishti-tech2507/leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Drishti-tech2507/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Drishti-tech2507/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -776,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Drishti-tech2507/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Drishti-tech2507/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Drishti-tech2507/leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Drishti-tech2507/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Drishti-tech2507/leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
